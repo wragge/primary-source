@@ -1,0 +1,5 @@
+requests
+pyzotero
+python-dotenv
+redis
+Mastodon.py
